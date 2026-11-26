@@ -1,8 +1,8 @@
 # Analise de Redes de Colaboracao Cientifica
 
-Projeto academico da disciplina **Algoritmos em Grafos** (C# / .NET 10), referente ao Tema 08.
+Projeto academico da disciplina **Algoritmos em Grafos** (C# / .NET 10), Tema 08.
 
-## Objetivo do prototipo
+## Objetivo
 
 Representar uma rede de coautoria academica e executar analises iniciais sobre seus autores, publicacoes, comunidades, areas de conhecimento e comportamento ao longo do tempo.
 
@@ -80,22 +80,9 @@ AnaliseRedesColaboracao/
 `-- README.md
 ```
 
-## Publicacao no GitHub
+O workflow em `.github/workflows/dotnet.yml` executa restore e build com .NET 10 a cada push ou pull request para `main`.
 
-Depois de criar um repositorio vazio no GitHub, execute na pasta do projeto:
-
-```bash
-git init
-git add .
-git commit -m "chore: cria prototipo inicial da rede de coautoria"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-git push -u origin main
-```
-
-Substitua a URL de exemplo pela URL real do repositorio. O workflow em `.github/workflows/dotnet.yml` executa restore e build com .NET 10 a cada push ou pull request para `main`.
-
-## Proximas evolucoes sugeridas
+## Proximas evolucoes
 
 - Importacao de CSV e validacao de identificadores de autores.
 - Escolha e documentacao de uma base real de publicacoes.
