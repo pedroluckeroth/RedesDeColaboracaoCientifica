@@ -4,7 +4,6 @@ Organizacao baseada no enunciado do Trabalho Pratico 02/2026. Confirmar no Canva
 
 ## Antes de desenvolver
 
-- [ ] Completar o grupo de 5 integrantes (ate agora ha 3 nomes confirmados).
 - [ ] Definir pergunta de pesquisa e recorte (area, instituicao, pais, periodo ou outro criterio).
 - [ ] Escolher fonte/base de publicacoes e verificar licenca, cobertura e campos disponiveis.
 - [ ] Definir identificador de autor e estrategia de desambiguacao.
