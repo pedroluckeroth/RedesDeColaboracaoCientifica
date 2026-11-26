@@ -1,6 +1,6 @@
 # Grupo e responsabilidades
 
-## Integrantes informados ate o momento
+## Integrantes
 
 1. Pedro Henrique Gomes Luckeroth
 2. Pedro Henrique Oliveira Siqueira
