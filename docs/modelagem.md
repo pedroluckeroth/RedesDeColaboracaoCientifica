@@ -92,7 +92,7 @@ Os dados de demonstracao sao ficticios. Antes da avaliacao experimental, o grupo
 
 ## 8. Diagrama inicial de classes
 
-/UMLs/diagrama de classes v01.png
+https://github.com/pedroluckeroth/RedesDeColaboracaoCientifica/blob/main/docs/UMLs/diagrama%20de%20classes%20v01.png
 
 ## 9. Plano de desenvolvimento
 
@@ -107,4 +107,4 @@ Os dados de demonstracao sao ficticios. Antes da avaliacao experimental, o grupo
 ## 10. Links uteis
 
 1. projeto no overleaf: https://www.overleaf.com/project/6b0893063685b6d8988e4eb1
-2. repositorio no github: 
+2. repositorio no github: https://github.com/pedroluckeroth/RedesDeColaboracaoCientifica
